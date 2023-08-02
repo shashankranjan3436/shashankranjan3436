@@ -2,7 +2,7 @@
 Shashank</a></h1>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="220" width="400" alt="GIF" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif">
+  <img align="right" top="500" height="220" width="380" alt="GIF" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif">
 </a>
 
 - 🔭 I’m currently studying at <a href="https://www.iitg.ac.in/" target="blank">IIT Guwahati</a>
