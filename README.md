@@ -7,7 +7,7 @@ Shashank</a></h1>
 
 - 🔭 I’m currently studying at <a href="https://www.iitg.ac.in/" target="blank">IIT Guwahati</a>
 
-- 🌱 I’m an Software Developer & AI/ ML enthusiast.
+- 🌱 I’m a Software Developer & AI/ ML enthusiast.
 
 - 🤝 I’m available for Part/Full-time Tech Jobs.
 
