@@ -38,11 +38,11 @@ Shashank</a></h1>
 
 <br>
 
-[![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankranjan3436&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/ThePrakharRajpali)
+[![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankranjan3436&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/shashankranajan3436)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankranjan3436&theme=tokyonight&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankranjan3436&theme=tokyonight&layout=compact&langs_count=5)](https://github.com/shashankranjan3436/github-readme-stats)
 
 
 
