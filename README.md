@@ -11,7 +11,7 @@ Shashank</a></h1>
 
 - 🤝 I’m available for Part/Full-time Tech Jobs.
 
-- 🌱 I’m currently learning about Generative AI & LLMs
+- 🌱 I’m currently working on Generative AI & LLMs
 
 - 📫 How to reach me **shashankranjan3436@gmail.com**
 
