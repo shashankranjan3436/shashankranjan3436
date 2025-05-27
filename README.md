@@ -5,7 +5,7 @@ Shashank</a></h1>
   <img align="right" top="500" height="220" width="380" alt="GIF" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif">
 </a>
 
-- 🔭 I’m currently studying at <a href="https://www.iitg.ac.in/" target="blank">IIT Guwahati</a>
+- 🔭 I’m a graduate of <a href="https://www.iitg.ac.in/" target="blank">IIT Guwahati</a>
 
 - 🌱 I’m a Software Developer & AI/ ML enthusiast.
 
